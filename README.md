@@ -5,8 +5,8 @@ QuizBot adalah sebuah bot discord yang bisa membuat, menambahkan, mengedit, dan 
 Bot ini bisa membantumu jika kamu ingin belajar sambil bermain bersama teman - teman !
 
 ## alat yang digunakan :
-vscode
-discord.py
+vscode,
+discord.py,
 sqlite3
 
 ## Perintah yang bisa digunakan :
