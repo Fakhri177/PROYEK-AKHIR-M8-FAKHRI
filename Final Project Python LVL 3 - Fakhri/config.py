@@ -1,2 +1,0 @@
-TOKEN = "Token"
-#Token sementara
